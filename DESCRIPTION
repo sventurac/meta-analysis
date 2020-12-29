@@ -9,7 +9,7 @@ Authors@R:
            email = "karthik.ram@gmail.com",
            comment = c(ORCID = "0000-0002-0233-1757"))
 Description: Compendium description
-License: MIT + file LICENSE
+License: GPL (>= 3)
 Depends: 
     dataRetrieval,
     dplyr,
